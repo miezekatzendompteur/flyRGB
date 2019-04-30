@@ -1,0 +1,52 @@
+/*
+
+Vivado v2016.4 (64-bit)
+SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+Process ID: 6140
+
+Current time: 	4/30/19 2:28:08 PM CEST
+Time zone: 	Central European Time (Europe/Berlin)
+
+OS: Windows 7
+Version: 6.1
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1920x1200
+Screen resolution (DPI): 96
+Available screens: 2
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	C:/Xilinx/Vivado/2016.4/tps/win64/jre
+
+User name: 	LocalAdmin
+User home directory: C:/Users/LocalAdmin
+User working directory: C:/Users/LocalAdmin/Documents/brems/flyRGB2v2
+User country: 	DE
+User language: 	de
+User locale: 	de_DE
+
+RDI base root directory: C:/Xilinx/Vivado
+RDI data directory: C:/Xilinx/Vivado/2016.4/data
+RDI bin directory: C:/Xilinx/Vivado/2016.4/bin
+
+Vivado preferences path: C:/Users/LocalAdmin/AppData/Roaming/Xilinx/Vivado/2016.4/vivado.ini
+Vivado layouts directory: C:/Users/LocalAdmin/AppData/Roaming/Xilinx/Vivado/2016.4/layouts
+
+GUI allocated memory:	227 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 410 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// HOptionPane Warning: 'This project was created with a future version of Vivado. It will be opened in read-only<br>mode for the protection of unrecognized data.<br>Please use 'File | Save Project As...' if you need to alter a copy of this project.<br>The project may or may not open reliably with this version of Vivado.<br>OK to proceed and open the project? (Future Project Version)'
+// [GUI Memory]: 40 MB (+39326kb) [00:00:05]
+// [Engine Memory]: 410 MB (+278780kb) [00:00:05]
+selectButton("PAResourceOtoP.PABaseTab_THIS_PROJECT_WILL_BE_OPENED_IN_READ_ONLY_Cancel", "Cancel"); // BasicOptionPaneUI$ButtonFactory:JButton (JPanel:JComponent, F:JDialog)
+closeMainWindow("Vivado 2016.4"); // cd:JFrame
+// y:aO (cd:JFrame): Exit Vivado: addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 415 MB. GUI used memory: 30 MB. Current time: 4/30/19 2:28:10 PM CEST

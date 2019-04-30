@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Tue Apr 30 14:27:54 2019
+# Process ID: 6140
+# Current directory: C:/Users/LocalAdmin/Documents/brems/flyRGB2v2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9636 C:\Users\LocalAdmin\Documents\brems\flyRGB2v2\flyRGB2v2.xpr
+# Log file: C:/Users/LocalAdmin/Documents/brems/flyRGB2v2/vivado.log
+# Journal file: C:/Users/LocalAdmin/Documents/brems/flyRGB2v2\vivado.jou
+#-----------------------------------------------------------
+start_gui
